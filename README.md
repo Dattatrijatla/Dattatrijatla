@@ -1,5 +1,21 @@
 # 💫 About Me:
-Aspiring software developer and computer science student with a strong interest in full-stack web development and artificial intelligence. Skilled in Python and JavaScript, as well as experience in C++ and Java. Actively seeking opportunities to gain practical experience and contribute to open-source projects. Follow my GitHub profile to see my latest projects and contributions
+Driven by a deep passion for data visualization, predictive analysis, and machine learning, I am a data enthusiast with a Master's degree in Computer Applications. My professional journey includes roles as a Web Analyst and AI/ML Intern, where I have sharpened my expertise in Python, SQL, and libraries such as NumPy, Pandas, and Matplotlib.
+
+Highlights of My Experience:
+
+* Spearheaded the successful migration of Google Analytics from Universal Analytics to GA4.
+* Collaborated with multidisciplinary teams to develop and fine-tune machine learning models.
+* Directed pivotal projects including Employee Position Tracking, Image Classification, and Handwriting Recognition.
+
+Continuous Learning:
+
+* My GitHub Profile reflects my hands-on projects and notable contributions to the open-source community.
+* Acquired the IBM Data Science Professional Certificate & Google Analytics Individual Qualification as part of my commitment to continuous learning.
+
+Seeking New Opportunities:
+I am currently exploring roles where I can apply my skills, contribute significantly, and embark on a new phase of learning and growth. If you believe my expertise aligns with an opportunity or if you'd like to discuss potential collaborations, I'd be delighted to connect.
+
+📧 Reach out to me directly at dattatrijatla@gmail.com or on +91 8050453688.
 
 
 ## 🌐 Socials:
